@@ -2,56 +2,54 @@
 
 Thanks to all the attendees of India Cloud Security Summit 2021.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@indiacloudsec](https://twitter.com/indiacloudsec "India Cloud Security Summit") for any further inputs (Hash tag #ICSS2021).
 
+## Website
+[Event Website](https://www.indiacloudsecuritysummit.com/)
+
 ## Session Presentations
 
 ## ********* Work In Progress ******* 
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
-| 1  | Keynote | Venkatarangan Thirumalai | Developing low-code apps with Power Apps and Azure AI | [Slides](https://github.com/  "Venkatarangan's Personal Blog")  |
-| 2  | Developer | Siddharth Vaghasia | Let's Explore Microsoft Teams Graph API | [Slides](https://github.com/siddharth-vaghasia/public-docs/blob/master/M365BLR-ExploreTeamsAPI-SiddharthVaghasia.pptx?raw=true "Siddharth Vaghasia's Personal GitHub") |
-| 3  | Developer | Prasham Sabadra | Creating Microsoft Teams tab with the Microsoft Graph Toolkit | [TBD](https://github.com/mstechcomin "TBD") :question: |
-| 4  | Developer | Kirti Prajapati | Webhooks in Microsoft Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Webhooks-in-Microsoft-Teams_Kirti-Prajapati_M365BLR2020.pdf?raw=true "Slides") / [Code](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/main/code/OutgoingWHSample.zip?raw=true "Code") |
-| 5  | Developer | Eldert Grootenboer | Take back your time; Let AI do the work for you! | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Take-back-your-time-Let-AI-do-the-work-for-you_Eldert-Grootenboer_M365BLR2020.pptx?raw=true "Slides") |
-| 6  | Developer | Ram Prasad Meenavalli | Design a chatbot with Power Virtual Agents. No more development | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Design-a-chatbot-with-Power-Virtual-Agents-No-more-development_Ram-Prasad-Meenavalli_M365BLR2020.pdf?raw=true "Slides") |
-| 7  | Developer | Alaa Bitar | Adaptive Cards + SharePoint Lists + PowerAutomate + PowerApps = On Boarding Process | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Adaptive-Cards-+-SharePoint-Lists-+-PowerAutomate-+-PowerApps-=-On-Boarding-Process_Alaa-Bitar_M365BLR2020.pdf?raw=true "Slides") |
-| 8  | Developer | Manoj Mittal | Implement SPFx Solution Continuous Integration & Continuous Development using Azure DevOps | [Video](https://www.youtube.com/watch?v=ZpE6QbZRPUw "Manoj's YouTube") |
-| 9  | Developer | Giuliano De Luca | Building real-time processes and notifications on Microsoft 365 with webhooks | [TBD](https://github.com/mstechcomin "TBD") :question: |
-| 10 | Developer | Nicole Enders | Become a Business Application Superstar in 5 steps | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Become-a-Business-Application-Superstar-in-5-steps_Nicole-Enders_M365BLR2020.pdf?raw=true "Slides") |
-| 11 | IT Pro | Nanddeep Nachan & Smita Nachan | Introduction to Microsoft Dataverse for Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Introduction-to-Microsoft-Dataverse-for-Teams_Nanddeep-Nachan-and-Smita-Nachan_M365BLR2020.pdf?raw=true "Slides") |
-| 12 | IT Pro | Kunal Kankariya | Automate content processing with SharePoint Syntex | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Automate-content-processing-with-SharePoint-Syntex_Kunal-Kankariya_M365BLR2020.pdf?raw=true "Slides") |
-| 13 | IT Pro | SkandaRamana Suryanarayana | The Rules of Migration | [Slides](https://www.slideshare.net/ramana16/the-rules-of-migration "Ramana's Personal Slideshare") |
-| 14 | IT Pro | Chendrayan Venkatesan | Managing Microsoft 365 with PowerShell | [Slides](https://about-powershell.visualstudio.com/_git/Microsoft-365 "Chen's Personal Blog") |
-| 15 | IT Pro | Hans Brender | The Cloud in my handbag | [Slides](https://mvphb-my.sharepoint.com/:p:/g/personal/hans_brender_hbsoft_de/EeiORGm4tydHgp_QBxobphsBisHDavZOqC4qMNrlzLIROg?e=I7Lx43 "Hans' Personal OneDrive") |
-| 16 | IT Pro | Marcin Siewnicki | Approvals in Microsoft Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Approvals-in-Microsoft-Teams_Marcin-Siewnicki_M365BLR2020.pdf?raw=true "Slides") |
-| 17 | IT Pro | Kevin McDonnell | Microsoft Search - the what, the why and the how | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Microsoft-Search-the-what-the-why-and-the-how_Kevin-McDonnell_M365BLR2020.pdf?raw=true "Slides") |
-| 18 | IT Pro | Chirag Patel | Understanding Security and Compliance in Microsoft Teams | [Slideshare](https://www.slideshare.net/techChirag/understanding-security-and-compliance-in-microsoft-teams-m365-saturday-bangalore-2020 "Chirag's Personal Slideshare ") |
-| 19 | IT Pro | Manpreet Singh | Introducing Microsoft Graph Connectors | [TBD](https://github.com/mstechcomin "TBD") :question: |
+| 1   | Keynote | Prashant Singh | Welcome Speech / Keynote | [Slides](https://github.com/  "")  |
+| 2   | M365 Security | Gokan Ozcifci | Introduction to Office 365 Security: Configure, Manage and Monitor | [Slides](https://github.com/  "")  |
+| 3   | M365 Security | Tim Hermie | Defender for Endpoint + MCAS = <3 | [Slides](https://github.com/  "")  |
+| 4   | M365 Security | Ashish Trivedi | M365 Security and Monitoring with Graph API | [Slides](https://github.com/  "")  |
+| 5   | M365 Security | Nanddeep Nachan, Smita Nachan | Information Barriers in MS Teams | [Slides](https://github.com/  "")  |
+| 6   | M365 Security | Patrick Guimonet | Secure Microsoft 365 collaboration with Microsoft Information Protection: a real life scenario | [Slides](https://github.com/  "")  |
+| 7   | M365 Security | Alan Eardley | Am I Entitled? How to manage access with Azure AD Entitlements | [Slides](https://github.com/  "")  |
+| 8   | M365 Security | Sebastien Paulet | CyberSec and Microsoft 365 in action | [Slides](https://github.com/  "")  |
+| 9   | M365 Security | Nimrod Geva | Enhance Your M365 Forms Without Compromising Privacy & Security | [Slides](https://github.com/  "")  |
+| 10  | M365 Security | Viktor Hedberg | Temporary Access Pass - The key for unlocking Passwordless? | [Slides](https://github.com/  "")  |
+| 11  | M365 Security | Michael Noel | You are Doing IT Security Wrong - Understanding the Threat of Modern Cyber-attacks | [Slides](https://github.com/  "")  |
+| 12  | M365 Security | Sergey Chubarov | Hackers Won't Pass - Microsoft 365 Defender in action | [Slides](https://github.com/  "")  |
+| 13  | M365 Security | Mitul Rana, Bheemarayappa Hanabar | Microsoft Defender: Stop attacks and reduce security operations workload with XDR | [Slides](https://github.com/  "")  |
+| 14  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 15  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 16  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 17  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 18  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 19  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 20  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 21  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 22  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 23  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 24  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 25  | Azure Security |  |  | [Slides](https://github.com/  "")  |
+| 26  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 27  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 28  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 29  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 30  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 31  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 32  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 33  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 34  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 35  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 36  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
+| 37  | M365, Azure, Power Platform & Modern Desktop |  |  | [Slides](https://github.com/  "")  |
 
 
-## Event Photos
-TBD 
 
-## SharePoint/Office365/Microsoft User Groups in Bangalore
-These are links to Microsoft Technology related User Groups that runs in-person / online meetups.
-* M365 Bangalore | [Facebook](https://www.facebook.com/groups/m365blr/ "Facebook") | [Twitter](https://twitter.com/m365blr "Twitter")
 
-* Bangalore IT Pro + PowerShell User Group | [Facebook](https://www.facebook.com/groups/psbug/ "Facebook")
 
-* aOS Community | [Facebook](https://www.facebook.com/aosComm/ "Facebook")
-
-* C# Corner Bengaluru Chapter | [Website](https://www.c-sharpcorner.com/chapters/bengaluru-chapter "C# Corner Bengaluru Chapter")
-
-* Microsoft Azure User Group Bangalore | [Meetup](https://www.meetup.com/Microsoft-Azure-Bangalore/  "Meetup")
-
-* Bangalore .NET User Group | [Facebook](https://www.facebook.com/groups/BDotNet/  "Facebook")
-
-* SQL Bangalore | [Facebook](https://www.facebook.com/groups/SQLBangalore/   "Facebook")
-
-* DataPlatformGeeks | [Website](http://www.dataplatformgeeks.com/ "Website")
-
-## SharePoint Saturday Events
-
-* Want to find out global SharePoint Saturday events? Visit [SPSEvents](http://www.spsevents.org/ "SharePoint Saturdays Home Page")
-
-* M365Saturday Bangalore Event Page [M365BLR](https://www.spsevents.org/event/bangaloresps2020/ "M365BLR 12-Dec-2020")
