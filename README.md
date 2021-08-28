@@ -1,6 +1,6 @@
 # India Cloud Security Summit 2021 (28-Aug-2021)
 
-Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@m365blr](https://twitter.com/m365blr "Microsoft365 Bangalore") for any further inputs (Hash tag #M365BLR).
+Thanks to all the attendees of India Cloud Security Summit 2021.  Here, we are sharing the Presentation links from all Speakers. Reach out to us on Twitter [@indiacloudsec](https://twitter.com/indiacloudsec "India Cloud Security Summit") for any further inputs (Hash tag #ICSS2021).
 
 ## Session Presentations
 
@@ -8,7 +8,7 @@ Thanks to all the attendees of Microsoft365 Saturday Bangalore 2020.  Here, we a
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
-| 1  | Keynote | Venkatarangan Thirumalai | Developing low-code apps with Power Apps and Azure AI | [Blog](https://venkatarangan.com/blog/2020/12/developing-low-code-apps-with-microsoft-power-apps-and-ai-builder/  "Venkatarangan's Personal Blog")  |
+| 1  | Keynote | Venkatarangan Thirumalai | Developing low-code apps with Power Apps and Azure AI | [Slides](https://github.com/  "Venkatarangan's Personal Blog")  |
 | 2  | Developer | Siddharth Vaghasia | Let's Explore Microsoft Teams Graph API | [Slides](https://github.com/siddharth-vaghasia/public-docs/blob/master/M365BLR-ExploreTeamsAPI-SiddharthVaghasia.pptx?raw=true "Siddharth Vaghasia's Personal GitHub") |
 | 3  | Developer | Prasham Sabadra | Creating Microsoft Teams tab with the Microsoft Graph Toolkit | [TBD](https://github.com/mstechcomin "TBD") :question: |
 | 4  | Developer | Kirti Prajapati | Webhooks in Microsoft Teams | [Slides](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/master/docs/Webhooks-in-Microsoft-Teams_Kirti-Prajapati_M365BLR2020.pdf?raw=true "Slides") / [Code](https://github.com/mstechcomin/m365-saturday-2020-blr/blob/main/code/OutgoingWHSample.zip?raw=true "Code") |
