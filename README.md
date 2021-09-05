@@ -11,7 +11,7 @@ Thanks to all the attendees of India Cloud Security Summit 2021.  Here, we are s
 
 | Sl# | Track | Speaker Name | Session Title | Presentation / Links |
 |:---:|:------|:-----------|:---------|:------------|
-| 1   | Keynote | Prashant Singh | Welcome Speech / Keynote | [Slides](https://github.com/  "")  |
+| 1   | Keynote | Prashant Singh | Welcome Speech / Keynote | [Recording](https://www.youtube.com/watch?v=3M21ARqKS6I  "YouTube")  |
 | 2   | M365 Security | Gokan Ozcifci | Introduction to Office 365 Security: Configure, Manage and Monitor | [Slides](https://github.com/  "")  |
 | 3   | M365 Security | Tim Hermie | Defender for Endpoint + MCAS = <3 | [Slides](https://github.com/  "")  |
 | 4   | M365 Security | Ashish Trivedi | M365 Security and Monitoring with Graph API | [Slides](https://github.com/  "")  |
